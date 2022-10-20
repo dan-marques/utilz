@@ -99,7 +99,7 @@ languageselection = false
 ; Secure transport methods like Tor and I2P domains are automatically whitelisted.
 ; It is **strongly discouraged** to disable this.
 ; See https://github.com/PrivateBin/PrivateBin/wiki/FAQ#why-does-it-show-me-an-error-about-an-insecure-connection for more information.
-; httpwarning = false
+httpwarning = false
 
 ; Pick compression algorithm or disable it. Only applies to pastes/comments
 ; created after changing the setting.
